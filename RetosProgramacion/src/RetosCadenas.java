@@ -1,4 +1,4 @@
-public class Retos {
+public class RetosCadenas {
     //String a nivel clase
     private String Cadena;
 
