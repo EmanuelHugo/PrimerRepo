@@ -8,7 +8,7 @@ public class Main {
         JOptionPane.showMessageDialog(null, textoinvertido);
       */
         String texto = JOptionPane.showInputDialog("Introduce una cadena:");
-        Retos libreriastring = new Retos();
+        RetosCadenas libreriastring = new RetosCadenas();
         libreriastring.setCadena(texto);
         libreriastring.Calcularlength();
         libreriastring.CalcularcharAt(3);
