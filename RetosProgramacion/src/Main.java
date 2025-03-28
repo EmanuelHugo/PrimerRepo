@@ -24,6 +24,7 @@ public class Main {
         libreriastring.contadordeletras();
         libreriastring.letrasconcomas();
         libreriastring.acronimos();
+        libreriastring.palindromo();
 
 
 
